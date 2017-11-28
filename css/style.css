@@ -41,9 +41,9 @@ html {
   color: rgba(0,0,0,0.8);
 }
 .container {
-  width: 500px;
+  width: 400px;
 }
-@media (max-width: 767px) {
+@media (max-width: 400px) {
   .container {
     width: 90%;
   }
